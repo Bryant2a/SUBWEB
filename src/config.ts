@@ -66,8 +66,8 @@ export const backendConfig = [{
     label: 'sub.d1.mk(肥羊提供-备用后端)',
     value: 'https://sub.d1.mk/sub?'
 }, {
-    label: 'localhost:25500(自建本地服务)',
-    value: 'http://localhost:25500/sub?'
+    label: 'romantic-tallulah-robinx-8bdf45b4.koyeb.app(自建服务)',
+    value: 'https://romantic-tallulah-robinx-8bdf45b4.koyeb.app/sub?'
 }];
 export const externalConfig = [{
     label: 'CM规则',
